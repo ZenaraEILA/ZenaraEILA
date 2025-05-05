@@ -1,4 +1,5 @@
-k<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF; text-shadow: 0 0 30px #FF69B4, 0 0 60px #FF69B4, 0 0 90px #FF1493; animation: glow 1.5s infinite alternate, float 5s ease-in-out infinite;">Hi there, I'm Zenara 🌸</h1>
+![Current Time](https://img.shields.io/badge/time-$(date +%H:%M)-brightgreen?style=flat-square)
+<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF; text-shadow: 0 0 30px #FF69B4, 0 0 60px #FF69B4, 0 0 90px #FF1493; animation: glow 1.5s infinite alternate, float 5s ease-in-out infinite;">Hi there, I'm Zenara 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👩‍💻%20Junior%20Developer%20%7C%20Creative%20Thinker%20%7C%20Open%20Source%20Enthusiast&center=true&width=500&height=30&color=FF69B4FF&vCenter=true" alt="Typing Animation">
