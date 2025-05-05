@@ -65,7 +65,7 @@
 </p>
 
 <div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://example.com/anime1.jpg" alt="Anime 1" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
+  <img src="https://github.com/ZenaraEILA/ZenaraEILA/blob/main/1684b8a5b000789ba48c70ecc182ab4a.jpg" alt="Anime 1" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
   <img src="https://example.com/anime2.jpg" alt="Anime 2" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
   <img src="https://example.com/anime3.jpg" alt="Anime 3" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
   <img src="https://example.com/anime4.jpg" alt="Anime 4" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
