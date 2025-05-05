@@ -57,3 +57,17 @@
   <img src="https://komarev.com/ghpvc/?username=ZenaraEILA&style=flat-square&color=FF69B4" alt="profile views" style="margin: 10px; filter: drop-shadow(0px 0px 20px #FF69B4);">
   <img src="https://img.shields.io/github/followers/ZenaraEILA?label=Follow&style=social" alt="GitHub Followers" style="margin: 10px; filter: drop-shadow(0px 0px 20px #FF69B4);">
 </p>
+
+<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF; text-shadow: 0 0 30px #FF69B4, 0 0 60px #FF69B4, 0 0 90px #FF1493;">My Anime Journey 🌸</h1>
+
+<p align="center">
+  📜 Here's a glimpse of anime I've watched so far. Scroll through the memories!
+</p>
+
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://example.com/anime1.jpg" alt="Anime 1" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
+  <img src="https://example.com/anime2.jpg" alt="Anime 2" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
+  <img src="https://example.com/anime3.jpg" alt="Anime 3" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
+  <img src="https://example.com/anime4.jpg" alt="Anime 4" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
+  <!-- Tambahkan lebih banyak gambar sesuai kebutuhan -->
+</div>
