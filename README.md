@@ -1,4 +1,4 @@
-![Current Time](https://img.shields.io/badge/time-$(date +%H:%M)-brightgreen?style=flat-square)
+
 <h1 align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF; text-shadow: 0 0 30px #FF69B4, 0 0 60px #FF69B4, 0 0 90px #FF1493; animation: glow 1.5s infinite alternate, float 5s ease-in-out infinite;">Hi there, I'm Zenara 🌸</h1>
 
 <p align="center">
