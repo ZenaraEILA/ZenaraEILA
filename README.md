@@ -11,7 +11,7 @@
 - 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Creative Coding**  
 - 🌱 I’m currently learning **JavaScript**, **React**, and **Git Fundamentals**  
 - 💞️ I’m looking to collaborate on **beginner-friendly open source projects**  
-- 📫 Reach me at: [Instagram](https://instagram.com/yourusername) | [Email](mailto:your.email@example.com)  
+- 📫 Reach me at: [Instagram](https://www.instagram.com/_mefann?igsh=MXM1bXpxODZ4MTBqbA==) | [TikTok](https://www.tiktok.com/@fannnnn1212_?_t=ZS-8w5xxFUj40V&_r=1) 
 - 😄 Pronouns: *She/Her*  
 - ⚡ Fun fact: I can design a site while humming anime openings 🎶
 
