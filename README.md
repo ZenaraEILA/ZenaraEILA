@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF; text-shadow: 0 0 30px #FF69B4, 0 0 60px #FF69B4, 0 0 90px #FF1493; animation: glow 1.5s infinite alternate, float 5s ease-in-out infinite;">Hi there, I'm Zenara 🌸</h1>
+k<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #FFFFFF; text-shadow: 0 0 30px #FF69B4, 0 0 60px #FF69B4, 0 0 90px #FF1493; animation: glow 1.5s infinite alternate, float 5s ease-in-out infinite;">Hi there, I'm Zenara 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👩‍💻%20Junior%20Developer%20%7C%20Creative%20Thinker%20%7C%20Open%20Source%20Enthusiast&center=true&width=500&height=30&color=FF69B4FF&vCenter=true" alt="Typing Animation">
@@ -65,9 +65,5 @@
 </p>
 
 <div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://github.com/ZenaraEILA/ZenaraEILA/blob/main/1684b8a5b000789ba48c70ecc182ab4a.jpg" alt="Anime 1" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
-  <img src="https://example.com/anime2.jpg" alt="Anime 2" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
-  <img src="https://example.com/anime3.jpg" alt="Anime 3" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
-  <img src="https://example.com/anime4.jpg" alt="Anime 4" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
-  <!-- Tambahkan lebih banyak gambar sesuai kebutuhan -->
+  <img src="https://github.com/ZenaraEILA/ZenaraEILA/blob/main/ezgif.com-animated-gif-maker.gif" width="150" style="display: inline-block; margin: 10px; border-radius: 10px; box-shadow: 0 0 20px #FF69B4;">
 </div>
