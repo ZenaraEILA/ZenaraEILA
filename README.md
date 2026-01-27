@@ -1,67 +1,64 @@
-<h1 align="center">Hi there, I'm Zenara 🌸</h1>
+<h1 align="center">Zenara 🌸</h1>
+<p align="center"><i>Junior Developer • UI/UX Enthusiast • Creative Thinker</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👩‍💻%20Junior%20Developer;🎨%20UI%2FUX%20Enthusiast;🌱%20Learning%20JavaScript%20%26%20React&center=true&width=500&height=40&color=FF69B4&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+modern+web+interfaces;Learning+JavaScript+%26+React;Design+meets+Code&center=true&width=480&height=35&color=FF7AB6">
 </p>
 
 ---
 
-## 👋 About Me
+## 👩‍💻 About Me
 
-- 🔭 Username: **@ZenaraEILA**
-- 👀 Interested in **Web Development**, **UI/UX Design**, & **Creative Coding**
-- 🌱 Currently learning **JavaScript**, **React**, & **Git**
-- 💞️ Open to collaborate on **beginner-friendly open source**
-- 😄 Pronouns: **She / Her**
-- ⚡ Fun fact: I design websites while humming anime openings 🎶
+Hi! I'm **Zenara**, a junior developer who loves blending **clean design** with **functional code**.
 
-📫 Reach me:
-- 🌸 [Instagram](https://www.instagram.com/_mefann)
+- 🌱 Currently learning **JavaScript, React & Git**
+- 🎨 Strong interest in **UI/UX & visual design**
+- 🤝 Open to beginner-friendly open-source projects
+- 🎧 Coding while listening to anime & lo-fi
+
+🔗 Connect with me:
+- 📸 [Instagram](https://www.instagram.com/_mefann)
 - 🎵 [TikTok](https://www.tiktok.com/@fannnnn1212_)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/Figma-2D2D2D?style=for-the-badge&logo=figma">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenaraEILA&show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenaraEILA&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenaraEILA&show_icons=true&theme=transparent&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZenaraEILA&theme=transparent&hide_border=true">
 </p>
 
 ---
 
-## ✨ Quote of the Day
+## 💬 Favorite Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> — **Cory House**
+> *“First, solve the problem. Then, write the code.”*  
+> — John Johnson
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZenaraEILA&color=FF69B4">
-  <img src="https://img.shields.io/github/followers/ZenaraEILA?label=Follow&style=social">
+  <img src="https://komarev.com/ghpvc/?username=ZenaraEILA&style=flat&color=ff7ab6">
+  <img src="https://img.shields.io/github/followers/ZenaraEILA?label=Followers&style=flat">
 </p>
 
 ---
 
-<h2 align="center">🌸 My Anime Journey 🌸</h2>
+<h3 align="center">🌸 Anime Side</h3>
 
 <p align="center">
-  Here's a glimpse of anime I've watched so far ✨
-</p>
-
-<p align="center">
-  <img src="https://github.com/ZenaraEILA/ZenaraEILA/blob/main/ezgif.com-animated-gif-maker.gif" width="180">
+  <img src="https://github.com/ZenaraEILA/ZenaraEILA/blob/main/ezgif.com-animated-gif-maker.gif" width="160">
 </p>
