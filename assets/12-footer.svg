@@ -1,0 +1,17 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="fade" x1="0" x2="1">
+    <stop offset="0%" stop-color="#000"/>
+    <stop offset="50%" stop-color="#151515"/>
+    <stop offset="100%" stop-color="#000"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="230" fill="url(#fade)"/>
+<path d="M0 80 C180 25 350 140 540 80 S920 20 1200 90 V230 H0Z" fill="#090909"/>
+<path d="M0 80 C180 25 350 140 540 80 S920 20 1200 90" fill="none" stroke="#fff" stroke-opacity=".12"/>
+<g font-family="monospace">
+  <text x="600" y="145" text-anchor="middle" fill="#fff" font-size="17" letter-spacing="5">END OF PROFILE</text>
+  <text x="600" y="176" text-anchor="middle" fill="#666" font-size="12">thanks for visiting · system remains online</text>
+</g>
+<circle cx="600" cy="200" r="3" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+</svg>

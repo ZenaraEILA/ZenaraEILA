@@ -1,0 +1,30 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="360" rx="26" fill="#070707"/>
+<g font-family="monospace">
+<text x="54" y="60" fill="#777" font-size="14">&gt; github.telemetry</text>
+<text x="54" y="105" fill="#fff" font-size="30" font-weight="700">GITHUB TELEMETRY</text>
+</g>
+<g transform="translate(54 145)" font-family="monospace">
+  <rect width="330" height="140" rx="18" fill="#0d0d0d" stroke="#fff" stroke-opacity=".1"/>
+  <text x="24" y="38" fill="#777" font-size="12">COMMITS</text>
+  <text x="24" y="92" fill="#fff" font-size="36" font-weight="700">000+</text>
+  <text x="24" y="118" fill="#5f5f5f" font-size="11">replace with dynamic stats in README</text>
+
+  <g transform="translate(378 0)">
+    <rect width="330" height="140" rx="18" fill="#0d0d0d" stroke="#fff" stroke-opacity=".1"/>
+    <text x="24" y="38" fill="#777" font-size="12">REPOSITORIES</text>
+    <text x="24" y="92" fill="#fff" font-size="36" font-weight="700">00+</text>
+    <text x="24" y="118" fill="#5f5f5f" font-size="11">public + private projects</text>
+  </g>
+
+  <g transform="translate(756 0)">
+    <rect width="330" height="140" rx="18" fill="#0d0d0d" stroke="#fff" stroke-opacity=".1"/>
+    <text x="24" y="38" fill="#777" font-size="12">STREAK</text>
+    <text x="24" y="92" fill="#fff" font-size="36" font-weight="700">00 DAYS</text>
+    <text x="24" y="118" fill="#5f5f5f" font-size="11">keep shipping</text>
+  </g>
+</g>
+<path d="M55 320 C180 270 260 350 390 300 S650 260 760 310 S980 335 1145 285" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2">
+  <animate attributeName="stroke-dasharray" values="0,1200;1200,0" dur="3s" repeatCount="indefinite"/>
+</path>
+</svg>

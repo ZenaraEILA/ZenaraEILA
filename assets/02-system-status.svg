@@ -1,0 +1,23 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#fff" stop-opacity=".7"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="190" rx="24" fill="#050505"/>
+<rect x="22" y="22" width="1156" height="146" rx="18" fill="none" stroke="#fff" stroke-opacity=".1"/>
+<g font-family="monospace">
+  <text x="58" y="58" fill="#777" font-size="13" letter-spacing="2">SYSTEM STATUS</text>
+  <text x="58" y="105" fill="#fff" font-size="20">ONLINE</text>
+  <circle cx="148" cy="99" r="6" fill="#fff"><animate attributeName="opacity" values="1;.15;1" dur="1s" repeatCount="indefinite"/></circle>
+  <text x="310" y="105" fill="#fff" font-size="20">BUILDING</text>
+  <text x="572" y="105" fill="#fff" font-size="20">LEARNING</text>
+  <text x="842" y="105" fill="#fff" font-size="20">EVOLVING</text>
+  <text x="58" y="140" fill="#5e5e5e" font-size="13">v2.6.0 · monochrome interface · stable channel</text>
+</g>
+<rect x="50" y="160" width="1100" height="1" fill="url(#line)">
+  <animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/>
+</rect>
+</svg>

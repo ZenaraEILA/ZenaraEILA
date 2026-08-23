@@ -1,0 +1,23 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="330" rx="26" fill="#030303"/>
+<rect x="35" y="35" width="1130" height="260" rx="18" fill="#080808" stroke="#fff" stroke-opacity=".1"/>
+<g font-family="monospace">
+<circle cx="62" cy="59" r="5" fill="#fff" opacity=".45"/>
+<circle cx="82" cy="59" r="5" fill="#fff" opacity=".25"/>
+<circle cx="102" cy="59" r="5" fill="#fff" opacity=".15"/>
+<text x="130" y="64" fill="#606060" font-size="12">terminal — dino.service</text>
+<text x="68" y="110" fill="#777" font-size="14">$ summon_dino --mode monochrome</text>
+<text x="68" y="142" fill="#fff" font-size="14">service started successfully.</text>
+
+<g transform="translate(445 155)" fill="#fff" font-size="16">
+<text x="0" y="0">              __</text>
+<text x="0" y="22">             / _)</text>
+<text x="0" y="44">      .-^^^-/ /</text>
+<text x="0" y="66">   __/       /</text>
+<text x="0" y="88">  &lt;__.|_|-|_|</text>
+</g>
+
+<text x="600" y="276" text-anchor="middle" fill="#6d6d6d" font-size="13">KEEP BUILDING. KEEP EVOLVING.</text>
+<rect x="845" y="263" width="9" height="18" fill="#fff"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

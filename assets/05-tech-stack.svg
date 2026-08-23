@@ -1,0 +1,34 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="440" rx="26" fill="#070707"/>
+<g font-family="monospace">
+<text x="52" y="58" fill="#777" font-size="14">&gt; stack.inventory</text>
+<text x="52" y="103" fill="#fff" font-size="30" font-weight="700">TECH STACK</text>
+</g>
+<g font-family="monospace">
+  <g transform="translate(54 145)">
+    <text fill="#888" font-size="13">FRONTEND</text>
+    <g transform="translate(0 25)">
+      <g><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">HTML</text></g>
+      <g transform="translate(155 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">CSS</text></g>
+      <g transform="translate(310 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">JAVASCRIPT</text></g>
+      <g transform="translate(465 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">TYPESCRIPT</text></g>
+      <g transform="translate(620 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">REACT</text></g>
+      <g transform="translate(775 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">TAILWIND</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(54 255)">
+    <text fill="#888" font-size="13">BACKEND + TOOLS</text>
+    <g transform="translate(0 25)">
+      <g><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">NODE.JS</text></g>
+      <g transform="translate(155 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">PHP</text></g>
+      <g transform="translate(310 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">LARAVEL</text></g>
+      <g transform="translate(465 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">MYSQL</text></g>
+      <g transform="translate(620 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">FIGMA</text></g>
+      <g transform="translate(775 0)"><rect width="142" height="56" rx="12" fill="#0f0f0f" stroke="#fff" stroke-opacity=".12"/><text x="71" y="34" text-anchor="middle" fill="#fff">GITHUB</text></g>
+    </g>
+  </g>
+</g>
+<rect x="54" y="390" width="1090" height="1" fill="#fff" opacity=".07"/>
+<text x="54" y="417" fill="#5e5e5e" font-family="monospace" font-size="12">replace these labels with your real stack anytime</text>
+</svg>

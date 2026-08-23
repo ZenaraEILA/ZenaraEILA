@@ -1,0 +1,21 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="330" rx="26" fill="#050505"/>
+<g font-family="monospace">
+<text x="54" y="62" fill="#777" font-size="14">&gt; current_mission.log</text>
+<text x="54" y="105" fill="#fff" font-size="30" font-weight="700">CURRENT MISSION</text>
+</g>
+<g transform="translate(55 140)" font-family="monospace" font-size="15">
+  <g>
+    <text y="0" fill="#aaa">BUILD</text><rect x="180" y="-14" width="740" height="16" rx="8" fill="#151515"/><rect x="180" y="-14" width="610" height="16" rx="8" fill="#fff"><animate attributeName="width" values="0;610" dur="1.5s" fill="freeze"/></rect><text x="950" y="0" fill="#777">82%</text>
+  </g>
+  <g transform="translate(0 45)">
+    <text y="0" fill="#aaa">DESIGN</text><rect x="180" y="-14" width="740" height="16" rx="8" fill="#151515"/><rect x="180" y="-14" width="650" height="16" rx="8" fill="#fff"><animate attributeName="width" values="0;650" dur="1.8s" fill="freeze"/></rect><text x="950" y="0" fill="#777">88%</text>
+  </g>
+  <g transform="translate(0 90)">
+    <text y="0" fill="#aaa">LEARN</text><rect x="180" y="-14" width="740" height="16" rx="8" fill="#151515"/><rect x="180" y="-14" width="570" height="16" rx="8" fill="#fff"><animate attributeName="width" values="0;570" dur="2.1s" fill="freeze"/></rect><text x="950" y="0" fill="#777">77%</text>
+  </g>
+  <g transform="translate(0 135)">
+    <text y="0" fill="#aaa">EVOLVE</text><rect x="180" y="-14" width="740" height="16" rx="8" fill="#151515"/><rect x="180" y="-14" width="625" height="16" rx="8" fill="#fff"><animate attributeName="width" values="0;625" dur="2.4s" fill="freeze"/></rect><text x="950" y="0" fill="#777">84%</text>
+  </g>
+</g>
+</svg>

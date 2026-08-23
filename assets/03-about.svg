@@ -1,0 +1,22 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="390" rx="26" fill="#070707"/>
+<rect x="28" y="28" width="1144" height="334" rx="18" fill="#0b0b0b" stroke="#fff" stroke-opacity=".09"/>
+<g font-family="monospace">
+  <text x="58" y="68" fill="#7c7c7c" font-size="14">&gt; about_me.exe</text>
+  <text x="58" y="115" fill="#fff" font-size="34" font-weight="700">ABOUT ME</text>
+  <text x="58" y="160" fill="#bdbdbd" font-size="17">Hello, I'm Seraviel — a developer who likes combining technology,</text>
+  <text x="58" y="190" fill="#bdbdbd" font-size="17">design, and experimentation into useful digital experiences.</text>
+  <text x="58" y="235" fill="#8f8f8f" font-size="15">Focus:</text>
+  <text x="150" y="235" fill="#fff" font-size="15">Web Development · UI/UX · Creative Engineering</text>
+  <text x="58" y="275" fill="#8f8f8f" font-size="15">Philosophy:</text>
+  <text x="165" y="275" fill="#fff" font-size="15">Build → Experiment → Break → Learn → Improve</text>
+  <text x="58" y="318" fill="#656565" font-size="13">status: continuously evolving</text>
+  <rect x="314" y="305" width="8" height="17" fill="#fff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(890 88)" stroke="#fff" fill="none" opacity=".65">
+  <path d="M85 0L22 95h48l-18 80 72-101H78z" stroke-width="2"/>
+  <circle cx="90" cy="112" r="70" stroke-opacity=".15"/>
+  <circle cx="90" cy="112" r="92" stroke-opacity=".07"/>
+  <animateTransform attributeName="transform" type="rotate" from="0 90 112" to="360 90 112" dur="22s" repeatCount="indefinite"/>
+</g>
+</svg>
