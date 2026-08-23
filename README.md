@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZenaraELA/ZenaraELA/main/assets/mono-livewallpaper.svg" width="100%"/>
+<img src="[https://raw.githubusercontent.com/ZenaraELA/ZenaraELA/main/assets/mono-livewallpaper.svg](https://github.com/ZenaraEILA/ZenaraEILA/blob/main/assets/mono-livewallpaper.svg)" width="100%"/>
 
 <br>
 
