@@ -20,10 +20,6 @@
 
 <br/>
 
-<img src="./assets/06-projects.svg" width="100%" alt="Selected Projects"/>
-
-<br/>
-
 <img src="./assets/07-github-panel.svg" width="100%" alt="GitHub Telemetry"/>
 
 <br/>
