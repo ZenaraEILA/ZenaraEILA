@@ -32,10 +32,6 @@
 
 <br/>
 
-<img src="./assets/10-dino-terminal.svg" width="100%" alt="Dino Terminal"/>
-
-<br/>
-
 <a href="https://github.com/ZenaraELA">
 <img src="./assets/11-connect.svg" width="100%" alt="Connect With Me"/>
 </a>
