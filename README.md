@@ -1,9 +1,4 @@
 
----
-
-## 🖤🤍 `SERAVIEL_MONOCHROME.md`
-
-```markdown
 <div align="center">
 
 <!-- LIVE WALLPAPER: ANIMATED SVG -->
@@ -23,13 +18,9 @@
 
 </div>
 
----
-
 ## ◼ `DINO_PROFILE.exe`
 
 <div align="center">
-
-```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
 ║             ◼  WELCOME, EXPLORER  ◼                      ║
@@ -43,7 +34,6 @@
 ║   "Turning ideas into digital worlds."                     ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
