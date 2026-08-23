@@ -1,37 +1,44 @@
-# 🦖 SERAVIEL — PIXEL JURASSIC DEVELOPER
 
+---
+
+## 🖤🤍 `SERAVIEL_MONOCHROME.md`
+
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,40:10231C,75:00FF9C,100:00E5FF&height=220&section=header&text=SERAVIEL&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=PIXEL%20JURASSIC%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- LIVE WALLPAPER: ANIMATED SVG -->
+<img src="https://raw.githubusercontent.com/Seraviel/Seraviel/main/assets/mono-livewallpaper.svg" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=%3E%5F+WELCOME+TO+THE+JURASSIC+ZONE;%3E%5F+SOFTWARE+ENGINEER;%3E%5F+UI%2FUX+EXPLORER;%3E%5F+BUILDING+DIGITAL+WORLDS;%3E%5F+SYSTEM+EVOLUTION+IN+PROGRESS..." />
+<!-- MONOCHROME TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=%3E%5F+WELCOME+TO+THE+MONOCHROME+ZONE;%3E%5F+SOFTWARE+ENGINEER;%3E%5F+PIXEL+PERFECTIONIST;%3E%5F+BUILDING+IN+BLACK+%26+WHITE;%3E%5F+SYSTEM+EVOLUTION+IN+PROGRESS..." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🦖_DINO_DEVELOPER-00FF9C?style=for-the-badge&labelColor=05070A&color=10231C"/>
-<img src="https://img.shields.io/badge/⚡_BUILDING-00E5FF?style=for-the-badge&labelColor=05070A&color=10231C"/>
-<img src="https://img.shields.io/badge/🌋_JURASSIC_MODE-FFD166?style=for-the-badge&labelColor=05070A&color=10231C"/>
+<!-- MONOCHROME BADGES -->
+<img src="https://img.shields.io/badge/◼_DINO_DEVELOPER-FFFFFF?style=for-the-badge&labelColor=000000&color=1A1A1A"/>
+<img src="https://img.shields.io/badge/⚡_BUILDING-FFFFFF?style=for-the-badge&labelColor=000000&color=333333"/>
+<img src="https://img.shields.io/badge/▣_MONOCHROME_MODE-FFFFFF?style=for-the-badge&labelColor=000000&color=1A1A1A"/>
 
 </div>
 
 ---
 
-## 🦴 `DINO_PROFILE.exe`
+## ◼ `DINO_PROFILE.exe`
 
 <div align="center">
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║             🦖  WELCOME, EXPLORER  🦖                     ║
+║             ◼  WELCOME, EXPLORER  ◼                      ║
 ║                                                            ║
 ║   NAME       : SERAVIEL                                    ║
 ║   CLASS      : SOFTWARE ENGINEER                            ║
 ║   SPECIALTY  : WEB DEVELOPMENT + UI/UX                     ║
 ║   SPECIES    : CREATIVE DEVELOPER                          ║
-║   STATUS     : 🟢 ONLINE                                   ║
+║   STATUS     : ■ ONLINE                                    ║
 ║                                                            ║
 ║   "Turning ideas into digital worlds."                     ║
 ║                                                            ║
@@ -42,9 +49,9 @@
 
 <br>
 
-<img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/Seraviel/Seraviel/main/assets/dino-mono.gif"/>
 
-### 🦕 About Me
+### ◾ About Me
 
 Hello! I'm **Seraviel**, a developer who enjoys building things that combine **technology, design, and creativity**.
 
@@ -54,36 +61,36 @@ My development philosophy is simple:
 
 > **Build → Experiment → Break → Learn → Improve**
 
-### 🌿 Current Expedition
+### ◽ Current Expedition
 
-* 🧬 Exploring modern web technologies
-* ⚡ Building interactive web applications
-* 🎨 Designing clean and immersive UI/UX
-* 🏗️ Learning better software architecture
-* 🦖 Creating experimental and creative projects
-* 🌋 Constantly evolving my development skills
+* ■ Exploring modern web technologies
+* ■ Building interactive web applications
+* ■ Designing clean and immersive UI/UX
+* ■ Learning better software architecture
+* ■ Creating experimental and creative projects
+* ■ Constantly evolving my development skills
 
 <br clear="right"/>
 
 ---
 
-# 🦖 `DINO_SKILL_TREE`
+# ◼ `DINO_SKILL_TREE`
 
 <div align="center">
 
-### 🌱 FRONTEND EVOLUTION
+### ◾ FRONTEND EVOLUTION
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
 
 <br><br>
 
-### 🧬 BACKEND EVOLUTION
+### ◾ BACKEND EVOLUTION
 
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
 
 <br><br>
 
-### 🛠️ DINO TOOLS
+### ◾ DINO TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 
@@ -91,33 +98,33 @@ My development philosophy is simple:
 
 ---
 
-# 🥚 `DINO_INVENTORY`
+# ◻ `DINO_INVENTORY`
 
 <div align="center">
 
-| 🥚 Egg | 🧬 Type             |   ⚡ Status   |
+| ◼ Egg | ◾ Type             |   ■ Status   |
 | :----: | :------------------ | :----------: |
-|   🥚   | Web Development     | `████████░░` |
-|   🥚   | UI/UX Design        | `█████████░` |
-|   🥚   | JavaScript          | `███████░░░` |
-|   🥚   | React               | `██████░░░░` |
-|   🥚   | Laravel             | `███████░░░` |
-|   🥚   | System Architecture | `█████░░░░░` |
+|   ◼   | Web Development     | `████████░░` |
+|   ◼   | UI/UX Design        | `█████████░` |
+|   ◼   | JavaScript          | `███████░░░` |
+|   ◼   | React               | `██████░░░░` |
+|   ◼   | Laravel             | `███████░░░` |
+|   ◼   | System Architecture | `█████░░░░░` |
 
 </div>
 
 ---
 
-# 🌋 `JURASSIC_PROJECTS`
+# ◼ `MONOCHROME_PROJECTS`
 
 <div align="center">
 
 <a href="https://github.com/Seraviel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraviel&repo=YOUR_PROJECT_1&theme=dark&hide_border=true&bg_color=05070A&title_color=00FF9C&icon_color=00E5FF&text_color=A9B1D6"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraviel&repo=YOUR_PROJECT_1&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=888888&text_color=CCCCCC"/>
 </a>
 
 <a href="https://github.com/Seraviel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraviel&repo=YOUR_PROJECT_2&theme=dark&hide_border=true&bg_color=05070A&title_color=00FF9C&icon_color=00E5FF&text_color=A9B1D6"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraviel&repo=YOUR_PROJECT_2&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=888888&text_color=CCCCCC"/>
 </a>
 
 </div>
@@ -126,7 +133,7 @@ My development philosophy is simple:
 
 <div align="center">
 
-> 🥚 **PROJECT EGGS**
+> ◼ **PROJECT EGGS**
 >
 > Every project starts as a small idea.
 >
@@ -138,36 +145,36 @@ My development philosophy is simple:
 
 ---
 
-# 🧬 `DINO_STATS`
+# ◼ `DINO_STATS`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Seraviel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070A&title_color=00FF9C&text_color=A9B1D6&icon_color=00E5FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Seraviel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=Seraviel&theme=dark&hide_border=true&background=05070A&ring=00FF9C&fire=FFD166&currStreakLabel=00FF9C&sideLabels=A9B1D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=667085"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Seraviel&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"/>
 
 </div>
 
 ---
 
-# 🗺️ `DINO_EXPLORATION_MAP`
+# ◼ `DINO_EXPLORATION_MAP`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seraviel&bg_color=05070A&color=FFFFFF&line=00FF9C&point=00E5FF&area=true&hide_border=true&custom_title=SERAVIEL%27S%20JURASSIC%20ACTIVITY%20MAP" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seraviel&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=SERAVIEL%27S%20MONOCHROME%20ACTIVITY%20MAP" width="95%"/>
 
 </div>
 
 ---
 
-# 🦖 `EVOLUTION_PROGRESS`
+# ◼ `EVOLUTION_PROGRESS`
 
 <div align="center">
 
 ```text
                     DINO EVOLUTION
 
-       🥚
+       ◼
        │
        ▼
    ┌─────────┐
@@ -175,40 +182,40 @@ My development philosophy is simple:
    └────┬────┘
         │
         ▼
-   🦎  NOVICE
+   ◼  NOVICE
         │
         │  ███████████████░░░
         ▼
-   🦕  DEVELOPER
+   ◼  DEVELOPER
         │
         │  ████████████░░░░░░
         ▼
-   🦖  ENGINEER
+   ◼  ENGINEER
         │
         │  ████████░░░░░░░░░░
         ▼
-   🐉  SYSTEM ARCHITECT
+   ◼  SYSTEM ARCHITECT
 ```
 
 </div>
 
 ---
 
-# 🌌 `CONTRIBUTION_VALLEY`
+# ◼ `CONTRIBUTION_VALLEY`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Seraviel/Seraviel/output/github-contribution-grid-snake-dark.svg" alt="Dinosaur Contribution Map"/>
+<img src="https://raw.githubusercontent.com/Seraviel/Seraviel/output/github-contribution-grid-snake-dark.svg" alt="Monochrome Contribution Map"/>
 
 <br><br>
 
 ```text
-        🌌 NIGHT IN THE JURASSIC VALLEY 🌌
+        ■ NIGHT IN THE MONOCHROME VALLEY ■
 
-  🏔️          🦕             🏔️
-     🌲   🌲        🌲   🌲
-        🌿     🦖      🌿
-   🌲        🌋        🌲
+  ◼          ◼             ◼
+     ◼   ◼        ◼   ◼
+        ◼     ◼      ◼
+   ◼        ◼        ◼
 
      Every contribution
        leaves a trace.
@@ -218,7 +225,7 @@ My development philosophy is simple:
 
 ---
 
-# ⚡ `CURRENT_MISSION`
+# ◼ `CURRENT_MISSION`
 
 <div align="center">
 
@@ -227,11 +234,11 @@ My development philosophy is simple:
 ║                  CURRENT MISSION                     ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  🧠 Learn        ████████████████░░░░  80%           ║
-║  💻 Build        ███████████████░░░░░  75%           ║
-║  🎨 Design       █████████████████░░░  85%           ║
-║  🧪 Experiment   ██████████████░░░░░░  70%           ║
-║  🦖 Evolve       ███████████████░░░░░  78%           ║
+║  ■ Learn        ████████████████░░░░  80%           ║
+║  ■ Build        ███████████████░░░░░  75%           ║
+║  ■ Design       █████████████████░░░  85%           ║
+║  ■ Experiment   ██████████████░░░░░░  70%           ║
+║  ■ Evolve       ███████████████░░░░░  78%           ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -240,20 +247,20 @@ My development philosophy is simple:
 
 ---
 
-# 📡 `ESTABLISH_CONNECTION`
+# ◼ `ESTABLISH_CONNECTION`
 
 <div align="center">
 
 <a href="https://github.com/Seraviel">
-<img src="https://img.shields.io/badge/GITHUB-05070A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/Seraviel">
-<img src="https://img.shields.io/badge/LINKEDIN-05070A?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.instagram.com/Seraviel">
-<img src="https://img.shields.io/badge/INSTAGRAM-05070A?style=for-the-badge&logo=instagram&logoColor=FF6EC7"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -262,14 +269,14 @@ My development philosophy is simple:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Seraviel&style=for-the-badge&color=00FF9C&label=JURASSIC+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Seraviel&style=for-the-badge&color=000000&label=MONOCHROME+VISITORS"/>
 
 <br><br>
 
 ```text
 ╭────────────────────────────────────────────────╮
 │                                                │
-│       🦖 KEEP BUILDING. KEEP EVOLVING. 🦖     │
+│       ◼ KEEP BUILDING. KEEP EVOLVING. ◼      │
 │                                                │
 ╰────────────────────────────────────────────────╯
 ```
@@ -280,6 +287,6 @@ My development philosophy is simple:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00FF9C,100:05070A&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
