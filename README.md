@@ -1,198 +1,80 @@
-# Seraviel — GitHub Profile README
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:071A1A,100:00FFCC&height=180&section=header&text=SERAVIEL&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
+  
+<!-- SLEEK TERMINAL HEADER -->
+<h2><code>[ SYSTEM.LOGIN: Seraviel ]</code></h2>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=650&height=45&lines=%3E%5F+Building+digital+experiences...;%3E%5F+Designing+clean+interfaces...;%3E%5F+Engineering+scalable+systems...;%3E%5F+Turning+ideas+into+reality..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=>_ INITIALIZING_PROTOCOL...;>_ SOFTWARE_ENGINEER;>_ UI/UX_ENTHUSIAST;>_ BUILDING_SCALABLE_SYSTEMS" alt="Typing SVG" />
 </a>
 
-<br>
-
-<p>
-  <strong>Software Engineer • UI/UX Enthusiast • Creative Developer</strong>
+<p align="center">
+  <i>Bridging the gap between robust backend architectures and sleek, user-centric interfaces.</i>
 </p>
-
-<p>
-  Building digital products where <strong>design</strong>, <strong>technology</strong>, and <strong>user experience</strong> meet.
-</p>
-
-<br>
-
-<a href="https://github.com/Seraviel">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/Seraviel">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC" />
-</a>
-<a href="https://www.instagram.com/Seraviel">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FFCC" />
-</a>
-
-</div>
-
----
-
-## `01` — About Me
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  SYSTEM PROFILE                                              │
-│                                                              │
-│  NAME       : Seraviel                                       │
-│  ROLE       : Software Engineer / UI/UX Enthusiast           │
-│  STATUS     : Building & Learning                            │
-│  INTERESTS  : Web Development · UI/UX · Creative Technology  │
-│  MINDSET    : Design with purpose. Code with precision.      │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-I'm a developer who enjoys turning ideas into **clean, functional, and visually engaging digital experiences**.
-
-My approach combines **software engineering** with **UI/UX design**, allowing me to work across both the technical and visual sides of a product.
-
-### Current Focus
-
-* ⚡ Building modern web applications
-* 🎨 Designing intuitive and scalable interfaces
-* 🧠 Exploring advanced JavaScript & React ecosystems
-* 🏗️ Improving system architecture and code quality
-* 🚀 Creating projects that solve real-world problems
-
----
-
-## `02` — Tech Stack
-
-### `Frontend`
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-</p>
-
-### `Backend`
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
-</p>
-
-### `Tools & Design`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
-</p>
-
----
-
-## `03` — Development Philosophy
-
-<div align="center">
-
-### `DESIGN → BUILD → ITERATE → IMPROVE`
-
-</div>
-
-I believe good software is not only about making something work.
-
-It's about creating something that is:
-
-**Simple to understand.**
-**Pleasant to use.**
-**Easy to maintain.**
-**Built to evolve.**
-
----
-
-## `04` — Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Seraviel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraviel&repo=YOUR_PROJECT_1&theme=transparent&hide_border=true&title_color=00FFCC&icon_color=00FFCC&text_color=A9B1D6" />
-</a>
-
-<a href="https://github.com/Seraviel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Seraviel&repo=YOUR_PROJECT_2&theme=transparent&hide_border=true&title_color=00FFCC&icon_color=00FFCC&text_color=A9B1D6" />
-</a>
-
-</div>
-
-> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
-
----
-
-## `05` — GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Seraviel">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Seraviel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A9B1D6&icon_color=00FFCC&ring_color=00FFCC&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Seraviel">
-<img height="180" src="https://streak-stats.demolab.com?user=Seraviel&theme=transparent&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=A9B1D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" />
-</a>
 
 </div>
 
 <br>
 
+### ▻ `USER_ENCLAVE_DATA`
+
+Hello, I am **Seraviel**. I am a passionate developer focusing on crafting clean, efficient, and visually striking applications. I thrive in environments where **design meets logic**, constantly exploring new technologies to optimize both performance and user experience.
+
+- ⚡ **Current Focus:** Advanced JavaScript, React, & System Architecture
+- 🎯 **Objective:** Developing high-performance, user-centric digital solutions
+- 🤝 **Collaboration:** Open for open-source contributions & innovative projects
+- 📬 **Ping Me:** [seraviel.network@example.com](mailto:seraviel.network@example.com)
+
+<br>
+
+### ▻ `TECH_STACK_MATRIX`
+
+<p align="left">
+  <!-- UNIFORM HD BADGES: Black background with Cyan accents -->
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFCC" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFCC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFCC" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFCC" alt="NodeJS" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFCC" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFCC" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FFCC" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFCC" alt="Git" />
+</p>
+
+<br>
+
+### ▻ `SYSTEM_ANALYTICS`
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seraviel&bg_color=0D1117&color=FFFFFF&line=00FFCC&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## `06` — Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Seraviel/Seraviel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## `07` — Connect
-
-<div align="center">
-
-<a href="https://github.com/Seraviel">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://www.linkedin.com/in/Seraviel">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC" />
-</a>
-
-<a href="https://www.instagram.com/Seraviel">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FFCC" />
-</a>
-
+  <!-- PROFESSIONAL STATS: Transparent Dark Theme with Cyan/Blue glow -->
+  <a href="https://github.com/Seraviel">
+    <img src="https://github-readme-stats.vercel.app/api?username=Seraviel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FFCC&title_color=ffffff&text_color=a9b1d6" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Seraviel">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Seraviel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=ffffff&currStreakLabel=a9b1d6" height="180" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
 
-<div align="center">
+### ▻ `ESTABLISH_CONNECTION`
 
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│     "Build something worth remembering."        │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
-<img src="https://komarev.com/ghpvc/?username=Seraviel&style=for-the-badge&color=00FFCC&label=PROFILE+VIEWS" />
-
-</div>
+<p align="left">
+  <a href="https://github.com/Seraviel">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/Seraviel">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/Seraviel">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFCC" alt="Instagram" />
+  </a>
+</p>
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,50:071A1A,100:0D1117&height=100&section=footer" width="100%" />
-
+  <code>"Simplicity is the ultimate sophistication."</code>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Seraviel&style=flat-square&color=00FFCC&label=ENCLAVE+VISITS" alt="Profile Views" />
 </div>
