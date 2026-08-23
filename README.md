@@ -1,283 +1,203 @@
- <div align="center">
+<div align="center">
 
-<img src="https://github.com/ZenaraEILA/ZenaraEILA/blob/main/assets/mono-livewallpaper.svg" width="100%"/>
+<img src="https://github.com/ZenaraELA/ZenaraELA/blob/main/assets/mono-livewallpaper.svg" width="100%" alt="Monochrome Banner"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=%3E%5F+WELCOME+TO+THE+MONOCHROME+ZONE;%3E%5F+SOFTWARE+ENGINEER;%3E%5F+PIXEL+PERFECTIONIST;%3E%5F+BUILDING+IN+BLACK+%26+WHITE;%3E%5F+SYSTEM+EVOLUTION+IN+PROGRESS..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Developer+%2F+UI%2FUX;Building+things+for+the+web.;Always+learning.+Always+building." alt="Typing SVG"/>
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/◼_DINO_DEVELOPER-FFFFFF?style=for-the-badge&labelColor=000000&color=1A1A1A"/>
-<img src="https://img.shields.io/badge/⚡_BUILDING-FFFFFF?style=for-the-badge&labelColor=000000&color=333333"/>
-<img src="https://img.shields.io/badge/▣_MONOCHROME_MODE-FFFFFF?style=for-the-badge&labelColor=000000&color=1A1A1A"/>
+<sub>designing interfaces · building systems · exploring ideas</sub>
 
 </div>
 
+<br/>
+
 ---
 
-## ◼ DINO_PROFILE.exe
+## About Me
 
 <div align="center">
 
 <pre>
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║             ◼  WELCOME, EXPLORER  ◼                      ║
-║                                                            ║
-║   NAME       : SERAVIEL                                    ║
-║   CLASS      : SOFTWARE ENGINEER                            ║
-║   SPECIALTY  : WEB DEVELOPMENT + UI/UX                     ║
-║   SPECIES    : CREATIVE DEVELOPER                          ║
-║   STATUS     : ■ ONLINE                                    ║
-║                                                            ║
-║   "Turning ideas into digital worlds."                     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+&gt; whoami
+
+SERAVIEL
+Software Engineer / Web Developer
 </pre>
 
 </div>
 
-<br>
+I enjoy turning ideas into digital experiences through <b>code and design</b>.
 
-<img align="right" width="280" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+My main interests are web development, UI/UX, and building applications that feel simple, intentional, and enjoyable to use.
 
-### ◾ About Me
-
-Hello! I'm <b>Seraviel</b>, a developer who enjoys building things that combine <b>technology, design, and creativity</b>.
-
-I like exploring the world of web development while creating interfaces that are not only functional, but also visually interesting.
-
-My development philosophy is simple:
-
-<b>Build → Experiment → Break → Learn → Improve</b>
-
-### ◽ Current Expedition
-
-■ Exploring modern web technologies
-■ Building interactive web applications
-■ Designing clean and immersive UI/UX
-■ Learning better software architecture
-■ Creating experimental and creative projects
-■ Constantly evolving my development skills
-
-<br clear="right"/>
-
----
-
-# ◼ DINO_SKILL_TREE
+Currently exploring better ways to design interfaces, structure applications, and turn small experiments into complete projects.
 
 <div align="center">
 
-### ◾ FRONTEND EVOLUTION
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-
-<br><br>
-
-### ◾ BACKEND EVOLUTION
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
-
-<br><br>
-
-### ◾ DINO TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+<pre>
+build → experiment → break → learn → improve
+</pre>
 
 </div>
 
+<br/>
+
 ---
 
-# ◻ DINO_INVENTORY
+## Tech Stack
 
 <div align="center">
 
-| ◼ Egg | ◾ Type             |   ■ Status   |
-| :----: | :------------------ | :----------: |
-|   ◼   | Web Development     | ████████░░ |
-|   ◼   | UI/UX Design        | █████████░ |
-|   ◼   | JavaScript          | ███████░░░ |
-|   ◼   | React               | ██████░░░░ |
-|   ◼   | Laravel             | ███████░░░ |
-|   ◼   | System Architecture | █████░░░░░ |
+<h3>Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="Frontend Skills"/>
+
+<br/><br/>
+
+<h3>Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql&theme=dark" alt="Backend Skills"/>
+
+<br/><br/>
+
+<h3>Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" alt="Development Tools"/>
 
 </div>
 
+<br/>
+
 ---
 
-# ◼ MONOCHROME_PROJECTS
+## Currently Exploring
+
+<div align="center">
+
+<pre>
+01. Building interactive web applications
+02. Improving frontend development
+03. Designing cleaner UI/UX
+04. Exploring modern web technologies
+05. Learning better application architecture
+06. Turning random ideas into real projects
+</pre>
+
+</div>
+
+<br/>
+
+---
+
+## Selected Projects
 
 <div align="center">
 
 <a href="https://github.com/ZenaraELA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenaraELA&repo=YOUR_PROJECT_1&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=888888&text_color=CCCCCC"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZenaraELA&repo=PROJECT_NAME&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="Project 1"/>
 </a>
 
 <a href="https://github.com/ZenaraELA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ZenaraELA&repo=YOUR_PROJECT_2&theme=graywhite&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=888888&text_color=CCCCCC"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZenaraELA&repo=PROJECT_NAME_2&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="Project 2"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-> ◼ <b>PROJECT EGGS</b>
->
-> Every project starts as a small idea.
->
-> Some hatch into tools.
-> Some evolve into systems.
-> Some become something unexpected.
+<sub>
+Every project begins as an experiment.<br/>
+Some become useful. Some become weird.<br/>
+Both are worth building.
+</sub>
 
 </div>
 
+<br/>
+
 ---
 
-# ◼ DINO_STATS
+## GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ZenaraELA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZenaraELA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=ZenaraELA&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenaraELA&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Top Languages"/>
 
 </div>
 
----
-
-# ◼ DINO_EXPLORATION_MAP
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenaraELA&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=ZENARAELA%27S%20MONOCHROME%20ACTIVITY%20MAP" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZenaraELA&bg_color=0D1117&color=FFFFFF&line=8B949E&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 
 </div>
 
+<br/>
+
 ---
 
-# ◼ EVOLUTION_PROGRESS
+## Contribution
 
 <div align="center">
 
-<pre>
-                    DINO EVOLUTION
-
-       ◼
-       │
-       ▼
-   ┌─────────┐
-   │ HATCHED │
-   └────┬────┘
-        │
-        ▼
-   ◼  NOVICE
-        │
-        │  ███████████████░░░
-        ▼
-   ◼  DEVELOPER
-        │
-        │  ████████████░░░░░░
-        ▼
-   ◼  ENGINEER
-        │
-        │  ████████░░░░░░░░░░
-        ▼
-   ◼  SYSTEM ARCHITECT
-</pre>
+<img src="https://raw.githubusercontent.com/ZenaraELA/ZenaraELA/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
----
-
-# ◼ CONTRIBUTION_VALLEY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ZenaraELA/ZenaraELA/output/github-contribution-grid-snake-dark.svg" alt="Monochrome Contribution Map"/>
-
-<br><br>
-
-<pre>
-        ■ NIGHT IN THE MONOCHROME VALLEY ■
-
-  ◼          ◼             ◼
-     ◼   ◼        ◼   ◼
-        ◼     ◼      ◼
-   ◼        ◼        ◼
-
-     Every contribution
-       leaves a trace.
-</pre>
-
-</div>
+<br/>
 
 ---
 
-# ◼ CURRENT_MISSION
-
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════════════╗
-║                  CURRENT MISSION                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  ■ Learn        ████████████████░░░░  80%           ║
-║  ■ Build        ███████████████░░░░░  75%           ║
-║  ■ Design       █████████████████░░░  85%           ║
-║  ■ Experiment   ██████████████░░░░░░  70%           ║
-║  ■ Evolve       ███████████████░░░░░  78%           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-</pre>
-
-</div>
-
----
-
-# ◼ ESTABLISH_CONNECTION
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/ZenaraELA">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ZenaraELA">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/ZenaraELA">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ZenaraELA&style=flat-square&color=0D1117&label=profile+views" alt="Profile Views"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ZenaraELA&style=for-the-badge&color=000000&label=MONOCHROME+VISITORS"/>
-
-<br><br>
-
 <pre>
-╭────────────────────────────────────────────────╮
-│                                                │
-│       ◼ KEEP BUILDING. KEEP EVOLVING. ◼      │
-│                                                │
-╰────────────────────────────────────────────────╯
+              __
+             / _)
+      .-^^^-/ /
+   __/       /
+  &lt;__.|_|-|_|
+
+keep building.
 </pre>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
