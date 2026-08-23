@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/01-hero.svg" width="100%" alt="Seraviel — Developer Profile"/>
+<img src="./assets/01-hero.svg" width="100%" alt="Seraviel Developer Profile"/>
 
 <br/>
 
@@ -32,14 +32,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenaraELA&bg_color=050505&color=FFFFFF&line=888888&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=ZENARAELA%20ACTIVITY%20SIGNAL" width="100%" alt="GitHub Activity Graph"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/ZenaraELA/ZenaraELA/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-<br/>
-
 <img src="./assets/09-evolution.svg" width="100%" alt="Evolution Path"/>
 
 <br/>
@@ -48,27 +40,11 @@
 
 <br/>
 
-<img src="./assets/11-connect.svg" width="100%" alt="Connect"/>
+<a href="https://github.com/ZenaraELA">
+<img src="./assets/11-connect.svg" width="100%" alt="Connect With Me"/>
+</a>
 
 <br/>
-
-<a href="https://github.com/ZenaraELA">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ZenaraELA">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.instagram.com/ZenaraELA">
-<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ZenaraELA&style=for-the-badge&color=050505&label=SYSTEM+VISITORS" alt="Profile Visitors"/>
-
-<br/><br/>
 
 <img src="./assets/12-footer.svg" width="100%" alt="End of Profile"/>
 
